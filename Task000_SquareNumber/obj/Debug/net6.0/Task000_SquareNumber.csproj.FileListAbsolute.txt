@@ -1,0 +1,15 @@
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\bin\Debug\net6.0\Task000_SquareNumber.exe
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\bin\Debug\net6.0\Task000_SquareNumber.deps.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\bin\Debug\net6.0\Task000_SquareNumber.runtimeconfig.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\bin\Debug\net6.0\Task000_SquareNumber.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\bin\Debug\net6.0\Task000_SquareNumber.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.csproj.AssemblyReference.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.AssemblyInfo.cs
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\refint\Task000_SquareNumber.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\Task000_SquareNumber.genruntimeconfig.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task000_SquareNumber\obj\Debug\net6.0\ref\Task000_SquareNumber.dll

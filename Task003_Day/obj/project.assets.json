@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\helen\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\helen\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками программирования\\2. Семинар 2. Знакомство с C#\\Семинар_1_14.04\\Task003_Day\\Task003_Day.csproj",
+      "projectName": "Task003_Day",
+      "projectPath": "C:\\Users\\helen\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками программирования\\2. Семинар 2. Знакомство с C#\\Семинар_1_14.04\\Task003_Day\\Task003_Day.csproj",
+      "packagesPath": "C:\\Users\\helen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\helen\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками программирования\\2. Семинар 2. Знакомство с C#\\Семинар_1_14.04\\Task003_Day\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\helen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

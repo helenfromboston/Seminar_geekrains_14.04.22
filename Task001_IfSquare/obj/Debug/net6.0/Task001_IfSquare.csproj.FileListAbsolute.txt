@@ -1,0 +1,15 @@
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\bin\Debug\net6.0\Task001_IfSquare.exe
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\bin\Debug\net6.0\Task001_IfSquare.deps.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\bin\Debug\net6.0\Task001_IfSquare.runtimeconfig.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\bin\Debug\net6.0\Task001_IfSquare.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\bin\Debug\net6.0\Task001_IfSquare.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.csproj.AssemblyReference.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.AssemblyInfo.cs
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\refint\Task001_IfSquare.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\Task001_IfSquare.genruntimeconfig.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\3. Знакомство с языками программирования\2. Семинар 2. Знакомство с C#\Семинар_1_14.04\Task001_IfSquare\obj\Debug\net6.0\ref\Task001_IfSquare.dll
