@@ -5,31 +5,31 @@ if (number == 1)
 {
     Console.Write("Понедельник");
 }
-if (number == 2)
+else if (number == 2)
 {
     Console.Write("Вторник");
 }
-if (number == 3)
+else if (number == 3)
 {
     Console.Write("Среда");
 }
-if (number == 4)
+else if (number == 4)
 {
     Console.Write("Четверг");
 }
-if (number == 5)
+else if (number == 5)
 {
     Console.Write("Пятница");
 }
-if (number == 6)
+else if (number == 6)
 {
     Console.Write("Суббота");
 }
-if (number == 7)
+else if (number == 7)
 {
     Console.Write("Воскресенье");
 }
-if (number > 7)
+else 
 {
     Console.Write("Недействительный номер");
 }
